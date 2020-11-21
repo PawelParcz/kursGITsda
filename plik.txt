@@ -1,12 +1,2 @@
-vim nazwa.pliku.txt
-i -> enter
-wprowadzam tekst
- nastepnie naciśnij 
- ESC
- : W -zapisujesz
- Q zamykasz
-
- Jeśli chcesz podgląd pliku w konsoli brash piszesz:
- cat nazwa pliku.txt
-
- dzieki cześć
+Zapisuje sobie dowolny text w pliku txt....!!!
+koniec
