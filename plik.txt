@@ -1,2 +1,0 @@
-Zapisuje sobie dowolny text w pliku txt....!!!
-koniec
